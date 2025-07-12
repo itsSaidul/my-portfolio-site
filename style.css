@@ -169,7 +169,7 @@ section {
   content: ""; 
   position: absolute;
   left: 230px;
-  top: 8px;
+  top: -5px;
   width: 90px;
   height: 7px;
   background:#004BFF; /* উদাহরণ হিসেবে */
